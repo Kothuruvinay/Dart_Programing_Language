@@ -29,16 +29,16 @@ void main() {
   int age = 50;
   switch (age) {
     case 19:
-      print("You are a teenager");
+      print("You are an teenager");
       break;
     case 30:
-      print("You are a young aged man");
+      print("You are an young aged man");
       break;
     case 50:
-      print("You are a middle aged man");
+      print("You are an middle aged man");
       break;
     case 70:
-      print("You are a old man");
+      print("You are an old man");
       break;
     default:
       print("you are not in the given age criteria..!");
@@ -63,3 +63,4 @@ void main() {
     y++;
   } while (y <= 5);
 }
+
