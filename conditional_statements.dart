@@ -6,7 +6,7 @@ void main() {
   if (myBalance > requidedToPay) {
     print("Transcation is possible..!");
   } else {
-    print("Transcation can not be done!");
+    print("Transcation can not be done..!");
   }
   //else-if condition
   print("\nElse-If Condition:");
@@ -22,7 +22,7 @@ void main() {
   } else if (myScore >= 50) {
     print("Grade : E");
   } else {
-    print("You are failed in your exams!");
+    print("You are failed in your exams..!");
   }
   //switch-case conditions
   print("\nSwitch-Case Condition:");
@@ -63,4 +63,5 @@ void main() {
     y++;
   } while (y <= 5);
 }
+
 
