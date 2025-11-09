@@ -5,7 +5,7 @@ void main() {
   //A reprasentation of student data using Data types in Dart
   //string, int, double, bool are the basic data types in dart
   String name = "Vinay";
-  String course = "Artificial_Intelligence";
+  String course = "Artificial_Intelligence and Data Science";
   String college = "'N.B.K.R Institute of Science and Technology'";
   String id = "21KB1A3045";
   print("Hello 'Mr.$name' this is your college data:");
