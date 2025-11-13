@@ -44,7 +44,7 @@ void main() {
   // Remaining functions are as same as Lists
   //** We can use 'const' for Lists and Sets like:
   //*const List<int> numbers = [22, 33, 44, 55, 66, 77, 88, 99];
-  //Whwn we put 'const' we can't change any data and it won't allow duplicates./
+  //When we put 'const' we can't change any data and it won't allow duplicates./
   fruits.forEach((element) {
     print(element);
   });
@@ -70,3 +70,4 @@ void main() {
   print(myBio.keys); // It shows all 'keys' in myBio.
   print(myBio.values); // It shows all 'values' in myBio.
 }
+
